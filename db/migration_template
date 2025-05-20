@@ -1,0 +1,26 @@
+/**
+ * Migration: {{name}}
+ * ID: {{id}}
+ */
+
+export async function up(sql) {
+  await sql.begin(async tx => {
+    await tx`
+      -- Your SQL code here
+    `;
+    
+    // You can add more operations as needed ie:
+    // await tx`-- Another operation`;
+  });
+}
+
+export async function down(sql) {
+  await sql.begin(async tx => {
+    await tx`
+      -- Your SQL code here
+    `;
+    
+    // You can add more operations as needed ie:
+    // await tx`-- Another operation`;
+  });
+}
