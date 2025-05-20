@@ -133,7 +133,7 @@ This project includes ShadCN UI components. You can add new components as needed
 
 ```bash
 # Example - only if you have shadcn/ui CLI installed
-npx shadcn-ui@latest add button
+bunx shadcn-ui@latest add button
 ```
 
 Alternatively, you can manually add components from the ShadCN documentation.
