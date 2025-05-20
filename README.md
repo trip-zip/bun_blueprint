@@ -2,15 +2,16 @@
 
 A modern web application template built with Bun, React, Tailwind CSS, and ShadCN UI components.
 
-## Features
+## Overview
 
-- ⚡️ **Bun** - Fast all-in-one JavaScript runtime, bundler, test runner, and package manager
-- ⚛️ **React 19** - The latest version of React with improved performance and features
-- 🎨 **Tailwind CSS** - Utility-first CSS framework for rapid UI development
-- 🧩 **ShadCN UI** - High-quality, accessible React components built with Radix UI and Tailwind CSS
-- 🗄️ **Database Integration** - PostgreSQL support with migration tools
-- 🔄 **Hot Module Replacement** - Fast refresh for development
-- 📦 **Minimal dependencies** - Lightweight and focused tooling
+This template provides a ready-to-use starting point for web applications that leverage Bun's native functionality. It's designed to get you up and running quickly with:
+
+- A complete setup for Bun with React, Tailwind, and ShadCN UI
+- Database integration with migration support out of the box
+- Development environment with hot reloading
+- Production build configuration
+
+Ideal for developers who want to start building with Bun without the initial configuration hassle.
 
 ## Prerequisites
 
